@@ -2,4 +2,8 @@
 
 #先看这里
 
+<<<<<<< Updated upstream
 #观光测试
+=======
+#核心测试
+>>>>>>> Stashed changes
