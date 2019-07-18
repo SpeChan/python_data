@@ -7,6 +7,9 @@
 =======
 #核心测试
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 
 #part_one
+=======
+#part_two
 >修改中
